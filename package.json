@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "eslint": "^7.4.0",
-    "jest": "^26.1.0"
+    "jest": "^26.1.0",
+    "node-fetch": "^2.6.0"
   }
 }
