@@ -54,4 +54,4 @@ Para verificar se os links são válidos, execute o comando:
 
 ## 4. Implementações futuras
 
-Atualmente essa biblioteca apenas indentifica os links no documento Markdown. Para as próximas versões, deseja-se implementar as estatísticas(Stats) dos links.
+Atualmente essa biblioteca apenas indentifica e valida os links no documento Markdown. Para as próximas versões, deseja-se implementar as estatísticas(Stats) dos links.
