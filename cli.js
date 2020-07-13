@@ -10,4 +10,4 @@ mdLinks(path, option)
             console.log(link.href, link.title, link.statusCode, link.statusText);
         });
     })
-    .catch(console.error)
+    .catch(console.error);
