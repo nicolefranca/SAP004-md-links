@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "library responsible for validating links in a makdown file",
   "main": "index.js",
+  "bin": {
+    "md-links": "./cli.js"
+  },
   "author": "Nicole França Gonçalves",
   "keywords": [
     "markdown",
