@@ -8,6 +8,6 @@ mdLinks(path, option)
         console.log(`O caminho do arquivo é: ${path}`)
         arrRes.forEach(link => {
             console.log(link.href, link.title, link.statusCode, link.statusText);
-        })
+        });
     })
     .catch(console.error)
